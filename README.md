@@ -13,7 +13,7 @@ Check out my work: [**My Portfolio**](https://taherhathi.vercel.app/) (Live exam
 ## **🤝 Fancy a Chat?**
 * **[LinkedIn](https://www.linkedin.com/in/taher-hath)** – Let's connect and collaborate!
 
-## ** Let's Build Something Awesome Together!**
+## **Let's Build Something Awesome Together!**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tahermaxse/Tahermaxse/output/github-snake-dark.svg" />
